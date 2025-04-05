@@ -1,3 +1,4 @@
+Welcome to my GitHub profile!
 # Introduction to GitHub
 
 <!-- ![](https://github.com/sdyw295306/sdyw1/actions/workflows/0-start-exercise.yml/badge.svg) -->
